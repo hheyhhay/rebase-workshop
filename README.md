@@ -19,7 +19,7 @@ RECOMMENDED MODULES
 -------------------
 - Eget nunc
 - Scelerisque viverra mauris
-- Vulputate enim
+- Vulputenim
 - Nulla aliquet
 - Porttitor lacus
 
